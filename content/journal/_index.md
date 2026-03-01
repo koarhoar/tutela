@@ -1,5 +1,5 @@
 +++
 title = "Journal"
 menu = "main"
-weight = 100
+weight = 20
 +++

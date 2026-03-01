@@ -10,6 +10,13 @@
     <lastBuildDate>Sat, 28 Feb 2026 19:25:05 +0100</lastBuildDate>
     <atom:link href="https://koarhoar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tags</title>
+      <link>https://koarhoar.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://koarhoar.github.io/tags/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>My New Post</title>
       <link>https://koarhoar.github.io/journal/my-new-post/</link>
       <pubDate>Sat, 28 Feb 2026 19:25:05 +0100</pubDate>
