@@ -10,14 +10,5 @@
   </url><url>
     <loc>https://example.com/journal/my-new-post/</loc>
     <lastmod>2026-02-28T19:25:05+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/markdown/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/journal/markdown-syntax/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/syntax/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>
